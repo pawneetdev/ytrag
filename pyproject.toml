@@ -1,7 +1,7 @@
 [project]
-name = "ytrag"
+name = "rag-notebook"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python-based RAG system for document processing and vector search"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

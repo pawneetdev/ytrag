@@ -3393,7 +3393,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ytrag"
+name = "rag-notebook"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
